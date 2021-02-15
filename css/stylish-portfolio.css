@@ -224,7 +224,7 @@ hr.small {
 .img-portfolio:hover {
     opacity: 0.8;
 }
-
+/*
 .portfolio-item {
   display: block;
   position: relative;
@@ -294,6 +294,7 @@ hr.small {
     clip-path: inset(2rem);
   }
 }
+*/
 /* Call to Action */
 
 .call-to-action {

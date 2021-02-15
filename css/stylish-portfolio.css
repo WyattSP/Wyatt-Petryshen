@@ -209,7 +209,8 @@ hr.small {
 /* Portfolio */
 
 .portfolio {
-    padding: 80px 0;
+    padding: 50px 0;
+    margin: 100px;
 }
 
 .portfolio-item {
@@ -231,7 +232,7 @@ hr.small {
 }
 
 .call-to-action .btn {
-    margin: 30px;
+    margin: 10px;
 }
 
 /* Map */
@@ -254,5 +255,6 @@ hr.small {
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 60px 0;
+    margin: 50px;
 }

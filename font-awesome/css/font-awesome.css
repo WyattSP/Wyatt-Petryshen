@@ -1670,3 +1670,11 @@
 .fa-meanpath:before {
   content: "\f20c";
 }
+
+.fa-researchgate:before {
+  content: "\f4f8";
+}
+
+.fa-orcid:before {
+  content: "\f8d2";
+}

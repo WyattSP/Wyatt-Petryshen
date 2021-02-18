@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: research
-premalink: /research/
+date: 2021-02-18
 ---
 
 # Research

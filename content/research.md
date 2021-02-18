@@ -2,6 +2,7 @@
 layout: post
 title: research
 date: 2021-02-18
+permalink: /research/
 ---
 
 # Research

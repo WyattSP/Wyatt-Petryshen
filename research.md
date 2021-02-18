@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-premalink: /research.md
+title: research
+premalink: /research/
 ---
 
 # Research

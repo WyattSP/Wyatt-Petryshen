@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+premalink: ../research/
 ---
 
 # Research
@@ -15,7 +16,7 @@ Additionally, some of my previous research was writing historical geologic case 
 
 Future research hopes to explore the role developmental plasticity plays in community assemblage and diversity patterns, and the predicting of ecosystem health based on ecosystem interactions.
 
-#Images Explained
+# Images Explained
 
 ![Conodont Element](/img/portfolio-1.jpg)
 

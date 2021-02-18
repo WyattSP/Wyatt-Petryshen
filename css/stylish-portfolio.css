@@ -210,12 +210,21 @@ hr.small {
 
 .portfolio {
     padding: 50px 0;
-    height: 500px;
 }
 
+/*
 .portfolio-item {
     margin-bottom: 50px;
 }
+*/
+.portfolio-item {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  max-width: 530px;
+  margin: auto auto 1rem;
+}
+
 
 .img-portfolio {
     margin: 0 auto;
@@ -303,23 +312,6 @@ hr.small {
 
 .call-to-action .btn {
     margin: 10px;
-}
-
-/* Map */
-
-.map {
-    height: 500px;
-}
-
-@media(max-width:768px) {
-    .map {
-        height: 75%;
-    }
-}
-
-/*disable custom maps scrolling behaviour*/
-.scrolloff {
-    pointer-events: none;
 }
 
 /* Footer */

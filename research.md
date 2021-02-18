@@ -15,3 +15,13 @@ My current research is exploring the ultrastructure in conodont P1 elements rela
 Additionally, some of my previous research was writing historical geologic case studies for use in undergraduate classrooms, and dental taphonomy in mammals from Saskatchewan.
 
 Future research hopes to explore the role developmental plasticity plays in community assemblage and diversity patterns, and the predicting of ecosystem health based on ecosystem interactions.
+
+#Images Explained
+
+![Conodont Element](/img/portfolio-1.jpg)
+
+![Conodont Element Functional Surface](/img/portfolio-2.jpg)
+
+![Fossil Dental Bacteria](/img/portfolio-3.jpg)
+
+![Conodont Element Histological Section](/img/portfolio-4.jpg)

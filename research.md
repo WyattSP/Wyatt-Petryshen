@@ -1,8 +1,7 @@
 ---
-layout: base
+layout: page
 title: research
 date: 2021-02-18
-permalink: /research/
 ---
 
 # Research

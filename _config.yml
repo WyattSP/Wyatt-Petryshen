@@ -27,6 +27,6 @@ plugins:
   - jekyll-relative-links
 
 include:
-  - content/research.md
-  - content/publications.md
-  - content/explore.md
+  - research.md
+  - publications.md
+  - explore.md

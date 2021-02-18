@@ -22,3 +22,11 @@ markdown: kramdown
 relative_links:
   enable: true
   collections: true
+
+plugins:
+  - jekyll-relative-links
+
+include:
+  - content/research.md
+  - content/publications.md
+  - content/explore.md

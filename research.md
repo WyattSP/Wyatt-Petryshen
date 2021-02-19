@@ -20,9 +20,17 @@ Future research hopes to explore the role developmental plasticity plays in comm
 # Images Explained
 
 ## Image 1
+---
+[![Image 1](img/portfolio-1.jpg)]
 
 ## Image 2
+---
+[![Image 2](img/portfolio-2.jpg)]
 
 ## Image 3
+---
+[![Image 3](img/portfolio-3.jpg)]
 
 ## Image 4
+---
+[![Image 4](img/portfolio-4.jpg)]

@@ -19,14 +19,14 @@ Future research hopes to explore the role developmental plasticity plays in comm
 
 # Images Explained
 
-<div class="col-lg-10 col-lg-offset-1 text-center">
-  <div class="portfolio-item">
-      <img class="img-portfolio" src="img/portfolio-1.jpg">
+<div class="text-vertical-center">
+    <img class="img-portfolio" src="img/portfolio-1.jpg">
 
-<div class="col-lg-10 col-lg-offset-1 text-center">
-  <div class="portfolio-item">
-      <img class="img-portfolio" src="img/portfolio-2.jpg">
+<div class="text-vertical-center">
+    <img class="img-portfolio" src="img/portfolio-2.jpg">
 
-![Fossil Dental Bacteria](/img/portfolio-3.jpg)
+<div class="text-vertical-center">
+    <img class="img-portfolio" src="img/portfolio-3.jpg">
 
-![Conodont Element Histological Section](/img/portfolio-4.jpg)
+<div class="text-vertical-center">
+    <img class="img-portfolio" src="img/portfolio-4.jpg">

@@ -19,6 +19,8 @@ Future research hopes to explore the role developmental plasticity plays in comm
 
 # Images Explained
 
+<img src="/img/portfolio-1.jpg" alt="drawing" width="500"/>
+
 ![Conodont Element](/img/portfolio-1.jpg)
 
 ![Conodont Element Functional Surface](/img/portfolio-2.jpg)

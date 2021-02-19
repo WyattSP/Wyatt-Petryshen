@@ -8,7 +8,6 @@ permalink: /publications.html
 # Publications
 
 For copies of the below articles, please don't hesitate to contact me for a copy!
-
 For more details, visit me at <a target="_blank" href="https://www.researchgate.net/profile/Wyatt_Petryshen">Research Gate</a>!
 
 ## Peer Reviewed Articles

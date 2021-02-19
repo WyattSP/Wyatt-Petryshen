@@ -19,7 +19,7 @@ Dolphin, G.R., Benoit, W., Burylo, J., Hurst, E., Petryshen, W., Wiebe, S. 2018.
 
 ## Repositories
 
-Will be updating soon!
+>Will be updating soon!
 
 ## Talks
 

@@ -253,3 +253,13 @@ footer {
     padding: 60px 0;
     margin: 20px;
 }
+
+/* Research Markdown Page */
+
+.img-research {
+  padding: 0;
+  margin: 0 auto;
+  display: block;
+  max-height: 100%;
+  max-width: 100%;
+}

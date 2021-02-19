@@ -23,9 +23,11 @@ Future research hopes to explore the role developmental plasticity plays in comm
 ---
 <body>
   <p align="center">
-  <img class="img-research" src="img/portfolio-1.jpg" width="50%">
+  <img class="img-research" src="img/portfolio-1.jpg" />
   </p>
 </body>
+
+A P1 element from the conodont *Sweetognathus whitei*. The P1 element would have had an analogous function to mammalian molars, helping the animal to process food. A conodont's feeding apparatus would have looked very similar to the mouth of a modern-day lamprey. This specimen was collected from the Tensleep Formation in Wyoming, USA.
 
 ## Image 2
 ---

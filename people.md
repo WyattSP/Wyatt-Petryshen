@@ -5,9 +5,11 @@ date: 2021-02-18
 permalink: /people.html
 ---
 # Emilia Jarochowska
+---
 
-## Bio:
+### Bio:
 
 # Charles Henderson
+---
 
-## Bio:
+### Bio:

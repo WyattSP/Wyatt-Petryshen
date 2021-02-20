@@ -19,7 +19,7 @@ Future research hopes to explore the role developmental plasticity plays in comm
 
 # Images Explained
 
-## Image 1
+## Conodont Element (#image-1)
 ---
 <body>
   <p align="center">

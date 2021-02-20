@@ -19,7 +19,7 @@ Future research hopes to explore the role developmental plasticity plays in comm
 
 # Images Explained
 
-<h2> id="image-1" class="anchor" href="#image-1">Conodont Element</h2>
+## Conodont Element
 ---
 <body>
   <p align="center">
@@ -29,7 +29,7 @@ Future research hopes to explore the role developmental plasticity plays in comm
 
 >A P1 element from the conodont *Sweetognathus whitei*. The P1 element would have had an analogous function to mammalian molars, helping the animal to process food. A conodont's feeding apparatus would have looked very similar to the mouth of a modern-day lamprey. This specimen was collected from the Tensleep Formation in Wyoming, USA.
 
-## Image 2
+## Functional Surface
 ---
 <body>
   <p align="center">
@@ -39,7 +39,7 @@ Future research hopes to explore the role developmental plasticity plays in comm
 
 >A close up image of the functional surface from a conodont P1 element. The functional surface would have been the portion of the element in physical contact with food material while it was feeding. The presence of the little bumps on its surface may have added it in food processing.
 
-## Image 3
+## Fossil Plaque
 ---
 <body>
   <p align="center">
@@ -49,7 +49,7 @@ Future research hopes to explore the role developmental plasticity plays in comm
 
 >Could these be the fossils of a 295 million-year old plaque bacteria? These small chains of rod-like fossils were found covering the surface of a conodont element retrieved from the Tensleep Formation, Wyoming. More on this to come!
 
-## Image 4
+## Histological Section
 ---
 <body>
   <p align="center">

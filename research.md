@@ -6,6 +6,7 @@ permalink: /research.html
 ---
 
 # Research
+---
 
 My research aims at exploring the drivers of diversity in both modern and ancient marine ecosystems.
 
@@ -18,6 +19,8 @@ Additionally, some of my previous research was writing historical geologic case 
 Future research hopes to explore the role developmental plasticity plays in community assemblage and diversity patterns, and the predicting of ecosystem health based on ecosystem interactions.
 
 # Images Explained
+
+
 
 ## Conodont Element
 ---

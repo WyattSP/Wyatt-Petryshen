@@ -20,6 +20,14 @@ Future research hopes to explore the role developmental plasticity plays in comm
 
 <br/><br/>
 
+What is a conodont?
+---
+Conodont's were early marine vertebrates that were the first to developed a biomineralized phosphatic dental skeleton composed of fluorapatite, much like the teeth in our mouth. Though the composition of their dental elements are similar to ours, conodont dental tissues and vertebrate enamel represent an extraordinary case of convergent evolution (Murdock et al. 2013). Morphologically, conodonts would have looked very similar to modern-day lamprey's, both having long slender bodies and a complex feeding apparatus, though they were likely not parasitic. Conodonts went extinct at the end-Triassic, some 200 million years ago.
+
+Why study conodonts?
+---
+Apart from their importance in biostratigraphy, conodonts provide us with a model organism to study long-term evolutionary change in a marine environment. Though only their dental elements are preserved, they are numerous in the rock record and can be easily retrieved from carbonate rocks. In most cases, conodont dental morphologies rapidly evolved to changing environmental conditions, meaning we have a detailed record of changes in diversity linked to episodes of global climate change! 
+
 ## Conodont Element
 ---
 <body>
@@ -58,4 +66,4 @@ Future research hopes to explore the role developmental plasticity plays in comm
   </p>
 </body>
 
->The material properties of an organisms hard-tissues, like another part of an organism, will be adapted to function best in certain environments. This is a histological section through the P1 element a conodont from the genus *Sweetognathus whitei*. Thin growth layers, called lamellar tissue is seen composing the majority of the element. Near the upper surface, patches of white matter is also seen. Is this white matter adapted to deal with certain mechanical stresses related to the animals feeding habit? More research to come!
+>The material properties of an organisms hard-tissues will be adapted to the environment it lives in. This is a histological section through the P1 element of a conodont from the genus *Sweetognathus whitei*. Thin growth layers, called lamellar tissue are seen composing the majority of the element. Near the upper surface, patches of white matter is also seen. Is this white matter adapted to deal with certain mechanical stresses related to the animals feeding habit? More research to come!

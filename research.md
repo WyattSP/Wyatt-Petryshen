@@ -8,25 +8,15 @@ permalink: /research.html
 # Research
 ---
 
-My research aims at exploring the drivers of diversity in both modern and ancient marine ecosystems.
-
-During the duration of my master's degree I investigated the evolution of the conodont genus *Sweetognathus*.
-
-My current research is exploring the ultrastructure in conodont P1 elements related to dietary constraints, as well as looking at overall controls on conodont diversity during the Permian.
-
-Additionally, some of my previous research was writing historical geologic case studies for use in undergraduate classrooms, and dental taphonomy in mammals from Saskatchewan.
-
-Future research hopes to explore the role developmental plasticity plays in community assemblage and diversity patterns, and the predicting of ecosystem health based on ecosystem interactions.
-
-<br/><br/>
+My research aims at exploring the drivers of diversity in both modern and ancient marine ecosystems. During the duration of my master's degree I investigated the evolution of the conodont genus *Sweetognathus*. My current research is exploring the ultrastructure in conodont P1 elements related to dietary constraints, as well as looking at overall controls on conodont diversity during the Permian. Additionally, some of my previous research was writing historical geologic case studies for use in undergraduate classrooms, and dental taphonomy in mammals from Saskatchewan. Future research hopes to explore the role developmental plasticity plays in community assemblage and diversity patterns, and the predicting of ecosystem health based on ecosystem interactions.
 
 What is a conodont?
 ---
-Conodont's were early marine vertebrates that were the first to developed a biomineralized phosphatic dental skeleton composed of fluorapatite, much like the teeth in our mouth. Though the composition of their dental elements are similar to ours, conodont dental tissues and vertebrate enamel represent an extraordinary case of convergent evolution (Murdock et al. 2013). Morphologically, conodonts would have looked very similar to modern-day lamprey's, both having long slender bodies and a complex feeding apparatus, though they were likely not parasitic. Conodonts went extinct at the end-Triassic, some 200 million years ago.
+>Conodont's were early marine vertebrates that were the first to developed a biomineralized phosphatic dental skeleton composed of fluorapatite, much like the teeth in our mouth. Though the composition of their dental elements are similar to ours, conodont dental tissues and vertebrate enamel represent an extraordinary case of convergent evolution (Murdock et al. 2013). Morphologically, conodonts would have looked very similar to modern-day lamprey's, both having long slender bodies and a complex feeding apparatus, though they were likely not parasitic. Conodonts went extinct at the end-Triassic, some 200 million years ago.
 
 Why study conodonts?
 ---
-Apart from their importance in biostratigraphy, conodonts provide us with a model organism to study long-term evolutionary change in a marine environment. Though only their dental elements are preserved, they are numerous in the rock record and can be easily retrieved from carbonate rocks. In most cases, conodont dental morphologies rapidly evolved to changing environmental conditions, meaning we have a detailed record of changes in diversity linked to episodes of global climate change! 
+>Apart from their importance in biostratigraphy, conodonts provide us with a model organism to study long-term evolutionary change in a marine environment. Though only their dental elements are preserved, they are numerous in the rock record and can be easily retrieved from carbonate rocks. In most cases, conodont dental morphologies rapidly evolved to changing environmental conditions, meaning we have a detailed record of changes in diversity linked to episodes of global climate change!
 
 ## Conodont Element
 ---

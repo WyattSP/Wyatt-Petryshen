@@ -11,10 +11,6 @@ owner: Wyatt Petryshen
 email: wyatt.petryshen@ucalgary.ca
 github_username: WyattSP
 research_gate: Wyatt Petryshen
-# Feel free to add more lines here
-
-# API settings
-google_api_key:
 
 # Build settings
 markdown: kramdown
@@ -30,3 +26,5 @@ include:
   - research.md
   - publications.md
   - explore.md
+
+google_analytics: G-43370HYJ5Q

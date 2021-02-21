@@ -12,15 +12,13 @@ My research aims at exploring the drivers of diversity in both modern and ancien
 
 During the duration of my Master's degree I investigated the evolution of the conodont genus *Sweetognathus*.
 
-My current research is exploring the ultrastructure in conodont P1 elements related to dietary constraints, as well as looking at overall controls on *Sweetognathus* diversity during the Permian.
+My current research is exploring the ultrastructure in conodont P1 elements related to dietary constraints, as well as looking at overall controls on conodont diversity during the Permian.
 
 Additionally, some of my previous research was writing historical geologic case studies for use in undergraduate classrooms, and dental taphonomy in mammals from Saskatchewan.
 
 Future research hopes to explore the role developmental plasticity plays in community assemblage and diversity patterns, and the predicting of ecosystem health based on ecosystem interactions.
 
-# Images Explained
-
-
+<br/><br/>
 
 ## Conodont Element
 ---
@@ -30,7 +28,7 @@ Future research hopes to explore the role developmental plasticity plays in comm
   </p>
 </body>
 
->A P1 element from the conodont *Sweetognathus whitei*. The P1 element would have had an analogous function to mammalian molars, helping the animal to process food. A conodont's feeding apparatus would have looked very similar to the mouth of a modern-day lamprey. This specimen was collected from the Tensleep Formation in Wyoming, USA.
+>A P1 element from the conodont genus *Sweetognathus whitei*. The P1 element would have had an analogous function to mammalian molars, helping the animal to process food. A conodont's feeding apparatus would have looked very similar to the mouth of a modern-day lamprey. This specimen was collected from the Tensleep Formation in Wyoming, USA.
 
 ## Functional Surface
 ---
@@ -40,7 +38,7 @@ Future research hopes to explore the role developmental plasticity plays in comm
   </p>
 </body>
 
->A close up image of the functional surface from a conodont P1 element. The functional surface would have been the portion of the element in physical contact with food material while it was feeding. The presence of the little bumps on its surface may have added it in food processing.
+>A close up image of a denticle located on the carina of a conodont P1 element. Each denticle would have been the functional surface of the element, used in processing food material while the animal feed.
 
 ## Fossil Plaque
 ---

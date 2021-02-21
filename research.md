@@ -10,7 +10,7 @@ permalink: /research.html
 
 My research aims at exploring the drivers of diversity in both modern and ancient marine ecosystems.
 
-During the duration of my Master's degree I investigated the evolution of the conodont genus *Sweetognathus*.
+During the duration of my master's degree I investigated the evolution of the conodont genus *Sweetognathus*.
 
 My current research is exploring the ultrastructure in conodont P1 elements related to dietary constraints, as well as looking at overall controls on conodont diversity during the Permian.
 

@@ -9,7 +9,11 @@ permalink: /people.html
 
 ### Bio:
 
+>>Will be updating soon!
+
 # Charles Henderson
 ---
 
 ### Bio:
+
+>Will be updating soon!

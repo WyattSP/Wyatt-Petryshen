@@ -231,7 +231,6 @@ hr.small {
 
 .img-portfolio {
     margin: 0 auto;
-    object-fit: cover;
 }
 
 .img-portfolio:hover {

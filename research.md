@@ -18,7 +18,7 @@ Why study conodonts?
 ---
 >Apart from their importance in biostratigraphy, conodonts provide us with a model organism to study long-term evolutionary change in a marine environment. Though only their dental elements are preserved, they are numerous in the rock record and can be easily retrieved from carbonate rocks. In most cases, conodont dental morphologies rapidly evolved to changing environmental conditions, meaning we have a detailed record of changes in diversity linked to episodes of global climate change!
 
-## Conodont Element
+## Elk Valley Coal Mining
 ---
 <body>
   <p align="center">
@@ -26,7 +26,7 @@ Why study conodonts?
   </p>
 </body>
 
->A P1 element from the conodont genus *Sweetognathus whitei*. The P1 element would have had an analogous function to mammalian molars, helping the animal to process food. A conodont's feeding apparatus would have looked very similar to the mouth of a modern-day lamprey. This specimen was collected from the Tensleep Formation in Wyoming, USA.
+>Description coming soon! Photo Eddie Petryshen.
 
 ## Functional Surface
 ---

@@ -8,7 +8,11 @@ permalink: /research.html
 # Research and Other Work
 ---
 
-My research aims at exploring the drivers of diversity in both modern and ancient marine ecosystems. During the duration of my master's degree I investigated the evolution of the conodont genus *Sweetognathus*. My current research is exploring the ultrastructure in conodont P1 elements related to dietary constraints, as well as looking at overall controls on conodont diversity during the Permian. Additionally, some of my previous research was writing historical geologic case studies for use in undergraduate classrooms, and dental taphonomy in mammals from Saskatchewan. Future research hopes to explore the role developmental plasticity plays in community assemblage and diversity patterns, and the predicting of ecosystem health based on ecosystem interactions.
+With the rate of climate change likely to outpace many species' ability to respond to newer and more extreme environmental conditions, we need to find ways to help them adapt more rapidly. Understanding the mechanisms that may have led to the evolution of key innovations during past periods of rapid environmental change is crucial if we hope to save at-risk species today.
+
+My current and future research aims are to explore the drivers of adaptation in both modern and ancient organisms. These drivers include both macro and microevolutionary processes, with a special interest in the role development plays in adaptation.
+
+Previously during my master's degree, I investigated the evolution of the conodont genus *Sweetognathus*. During my undergraduate degree, I wrote historical geologic case studies for undergraduate classrooms, and during my undergraduate thesis, I investigated how collection techniques may have introduced a sampling bias in Eocene fossil collections.
 
 ## Elk Valley Coal Mining
 ---

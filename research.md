@@ -19,7 +19,11 @@ Previously during my master's degree, I investigated the evolution of the conodo
 
 The Elk Valley Coal mines represent one of the world’s largest ongoing selenium contamination issues to date. In the heart of the Elk Valley, Teck Resources Limited owns and operates four major mountaintop removal coal mines with an annual production capacity of 26 to 27 million metric tons of steelmaking coal (Teck DPD 2021, 2-1). Selenium and other water-borne contaminants travel down the Fording River into watersheds that comprise much of the Kootenay region and across transboundary waterways. Despite the recognition of an ongoing contamination crisis, Teck Resources Limited continues to release selenium concentrations well above water quality guidelines into the Fording River and its tributaries. The continued release of selenium and other contaminants into our rivers now jeopardizes drinking water sources in the Elk Valley, westslope cutthroat trout and their habitat in the Fording River, and countless other species in British Colombia, Montana, and Idaho.
 
-<a align="center" href="/Wyatt-Petryshen/elkvalley.html" class="btn btn-primary">Read More</a>
+<body>
+  <p align="center">
+  <a align="center" href="/Wyatt-Petryshen/elkvalley.html" class="btn btn-primary">Read More</a>
+  </p>
+</body>  
 
 <body>
   <p align="center">

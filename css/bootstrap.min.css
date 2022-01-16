@@ -3381,6 +3381,7 @@ select[multiple].form-group-lg .form-control, textarea.form-group-lg .form-contr
 .btn {
     display: inline-block;
     padding: 6px 12px;
+    margin: 0 auto;
     margin-bottom: 0;
     font-size: 14px;
     font-weight: 400;

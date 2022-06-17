@@ -21,12 +21,6 @@ The Elk Valley Coal mines represent one of the world’s largest ongoing seleniu
 
 <body>
   <p align="center">
-  <a align="center" href="/Wyatt-Petryshen/elkvalley.html" class="btn btn-primary">Read More</a>
-  </p>
-</body>  
-
-<body>
-  <p align="center">
   <img class="img-research img-responsive" src="img/portfolio-1.jpg" />
   </p>
 </body>

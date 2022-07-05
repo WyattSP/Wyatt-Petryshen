@@ -13,13 +13,13 @@ For more details, visit me at <a target="_blank" href="https://www.researchgate.
 
 ## Peer Reviewed Articles
 
->Petryshen W, Henderson CM, De Baets K, Jarochowska E. 2020. Evidence of parallel evolution in the dental elements of Sweetongathus conodonts. Proc. R. Soc. B 287: 20201922. http://dx.doi.org/10.1098/rspb.2020.1922.
+>Petryshen W, Henderson CM, De Baets K, Jarochowska E. 2020. Evidence of parallel evolution in the dental elements of Sweetongathus conodonts. Proc. R. Soc. B 287: 20201922. <http://dx.doi.org/10.1098/rspb.2020.1922>.
 
 >Dolphin, G.R., Benoit, W., Burylo, J., Hurst, E., Petryshen, W., Wiebe, S. 2018. Braiding history, inquiry, and model-based learning: A collection of open-source historical case studies for teaching both geology content and the nature of science. Journal of Geoscience Education. doi: 10.1080/10899995.2018.1475821.
 
 ## Non-Refereed Publications
 
->Petryshen W, 2022. Canada-U.S. transborder political dispute looms over water pollution crisis in British Columbia’s Elk Valley. The Hill Times. https://d1tfm8vclpltjj.cloudfront.net/wp-content/uploads/2022/06/Wyatt-HT-op-ed-Jun27-2022.pdf
+>Petryshen W, 2022. Canada-U.S. transborder political dispute looms over water pollution crisis in British Columbia’s Elk Valley. The Hill Times. <https://d1tfm8vclpltjj.cloudfront.net/wp-content/uploads/2022/06/Wyatt-HT-op-ed-Jun27-2022.pdf>
 
 ## Repositories
 

@@ -10,7 +10,7 @@ permalink: /research.html
 
 With the rate of climate change likely to outpace many species' ability to respond to newer and more extreme environmental conditions, we need to find ways to help them adapt more rapidly. Understanding the mechanisms that may have led to the evolution of key innovations during past periods of rapid environmental change is crucial if we hope to save at-risk species today.
 
-My current and future research aims are to explore the drivers of adaptation in both modern and ancient organisms. These drivers include both macro and microevolutionary processes, with a special interest in the role development plays in adaptation.
+My current and future research aims are to explore the drivers of adaptation in both modern and ancient organisms. Understanding how species coexist, manage resources, and adapt to change will all be important if we hope to maintain biodiversity as ecosystems and wildlife face increasing anthropogenic threats and unprecedented levels of habitat fragmentation.
 
 Previously during my master's degree, I investigated the evolution of the conodont genus *Sweetognathus*. During my undergraduate degree, I wrote historical geologic case studies for undergraduate classrooms, and during my undergraduate thesis, I investigated how collection techniques may have introduced a sampling bias in Eocene fossil collections.
 
